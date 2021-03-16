@@ -1,4 +1,4 @@
 # Bienvenido a mi Github
 Desarrollo de aplicaciones multiplataforma
 
-[Visita mi CV](https://ltplorenzo.neocities.org/curr/index.html)
+[Visita mi CV](https://ltplorenzo.neocities.org/Curriculum/index.html)
